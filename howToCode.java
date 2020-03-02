@@ -96,5 +96,9 @@ public class howToCode{
         //round(double, 2);
         list.add(1);
         System.out.println(input * 8 - 95);
+
+        //2D array
+        //data_type[1st dimension][2nd dimension] array_name = new data_type[size1][size2];
+        int[][] twoD_arr = new int[10][20];
     }
 }
